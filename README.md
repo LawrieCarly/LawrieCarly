@@ -4,4 +4,4 @@ I am Software developer with a design, and management background. Seeking the op
 
 📱 I'm currently working on a Mobile app using React Native!
 🤔 I'm in the process of learning JavaScript, Java and Python! 
-💬 Email me @ lawrie.carly@gmail.com or connect with me on LinkedIn @ linkedin.com/lawriedavidson/
+💬 Email me lawrie.carly@gmail.com or connect with me on LinkedIn https://www.linkedin.com/in/lawriedavidson/
